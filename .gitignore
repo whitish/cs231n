@@ -1,3 +1,4 @@
-*
-!assignments
-!.gitignore
+/*
+!/assignments
+/assignments/*
+!assignments/2018
